@@ -1,1 +1,1 @@
-# simplePHP
+# PHP simple DBConnection class
